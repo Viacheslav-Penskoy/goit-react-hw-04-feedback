@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import css from './Notificstion.module.css';
+import css from './Notification.module.css';
 
 export const Notification = () => {
   return <p className={css.p}>There is no feedback</p>;
